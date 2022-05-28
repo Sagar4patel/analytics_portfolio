@@ -15,8 +15,6 @@ This is a repository to showcase skills and share projects,
 
 **Description**: The dataset is public data from the SBA website. It contains all the approved SBA 7a loans by decade. It contains approval date, approval amount, the Lender, Industry, interest rate, and loan term. The project included the following steps: data loading, data cleaning and EDA(exploratory data analysis. 
 
-**Skills**: Data cleaning, data analysis, data visualization
-
 **Technology**: SQL, Tableau, SSIS
 
 **Results**: Since I am personally interested in investing money into hotels sometime in the future. I learned which hotel franchises got the most approval as well as the most common lenders for those certain franchises.
