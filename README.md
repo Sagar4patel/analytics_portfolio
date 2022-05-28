@@ -27,3 +27,10 @@ This is a repository to showcase skills and share projects,
 **Technology**: SQL, Tableau, Window functions
 
 **Results**: Found out which customers are the most loyal through how often they ordered, the last time they ordered, as well as the amount of revenue they brought in per order.
+
+## Tableau Visualizations
+**Description**: Tableau Public account --> [go to Tableau](https://public.tableau.com/app/profile/sagar.patel5633#!/?newProfile=&activeTab=0)
+
+## Contact
+* Linkedin
+* Email:
