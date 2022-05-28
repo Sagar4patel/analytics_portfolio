@@ -31,6 +31,4 @@ This is a repository to showcase skills and share projects,
 ## Tableau Visualizations
 **Description**: Tableau Public account --> [go to Tableau](https://public.tableau.com/app/profile/sagar.patel5633#!/?newProfile=&activeTab=0)
 
-## Contact
-* Linkedin
-* Email:
+
