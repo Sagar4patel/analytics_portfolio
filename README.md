@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Sagar! I have a technical background and hold a Bachelor of Science (B.S.) degree in Computer Science (University of Illinois - Springfield). I had worked in the hospitality industry for 5 years and am currently working as a Datacenter technician. My goal is to eventually break my way into Data Analytics because of my interests of analyzing different datasets and coming up with insights for better understanding.
+Hi, I'm Sagar! I hold a Bachelor of Science (B.S.) degree in Computer Science (University of Illinois - Springfield). I had worked in the hospitality industry for 5 years and am currently working as a Datacenter technician. My goal is to eventually break my way into Data Analytics because of my interests of analyzing different datasets and coming up with insights for better understanding.
 
 This is a repository to showcase skills and share projects,
 
@@ -24,9 +24,18 @@ This is a repository to showcase skills and share projects,
 
 **Description**: The dataset is a superstore sales data from kaggle. This dataset contained information on customer name, customers last order date, the sales and profit that customer gave with that order, order_id, and which category and subcategory of products that customer bought.
 
-**Technology**: SQL, Tableau, Window functions
+**Technology**: SQL, Tableau, Window Functions
 
 **Results**: Found out which customers are the most loyal through how often they ordered, the last time they ordered, as well as the amount of revenue they brought in per order.
+
+### Legos Data Analysis
+**Code**: [lego_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/lego_data_analysis.sql)
+
+**Description**: This dataset is public data from Rebrickables website. It contains multiple zipped files of lego themes, color, number of parts made in a year, sets, and even has a diagram showing all each of the files are related to each other.
+
+**Technology**: SQL, SSIS, Window Functions, Tableau
+
+**Results**: I found out what the most popular theme was in a given century, what was the most produced color of lego in terms of quantity of parts made, as well as the percentage allocation of themes made in a timespan.
 
 ## Tableau Visualizations
 **Description**: Tableau Public account --> [go to Tableau](https://public.tableau.com/app/profile/sagar.patel5633#!/?newProfile=&activeTab=0)
