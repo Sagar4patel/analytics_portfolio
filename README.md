@@ -37,6 +37,15 @@ This is a repository to showcase skills and share projects,
 
 **Results**: I found out what the most popular theme was in a given century, what was the most produced color of lego in terms of quantity of parts made, as well as the percentage allocation of themes made in a timespan.
 
+### Airline Passenger Satisfaction
+**Code**: [airline_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/airline_analysis.sql)
+
+**Description**: This dataset contains Customer Satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
+
+**Technology**: SQL, Window Functions, Tableau
+
+**Results**: The results were that returning customers that went on a personal trip had the highest count of dissatisfaction with their experience. Customers that were on a business trip using business class type flight flew the longest distance compared to the other classes of flights. Majority of the customers had a below average rating for all types of class and customer types. 
+
 ## Tableau Visualizations
 **Description**: Tableau Public account --> [go to Tableau](https://public.tableau.com/app/profile/sagar.patel5633#!/?newProfile=&activeTab=0)
 
