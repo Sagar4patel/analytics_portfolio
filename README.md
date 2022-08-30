@@ -10,6 +10,15 @@ This is a repository to showcase skills and share projects,
 
  In this section I will list data analytics project describing the technology stack used to answer questions
  
+### Hospital Wait Time Analysis
+**Code**: [hospital_wait_time_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/hospital_wait_time_analysis.sql)
+
+**Description**: This Dataset is public data from a hospital that has issues with long waiting time for patients. This dataset contains information on entry time, consulting time, completion time, and the type of insurance the patient has. The task was to find out within the data what possible factors can lead to the long waiting times.
+
+**Technology**: Excel, SQL, Tableau
+
+**Results**: The data has shown that they were seem to be longer wait times during lunch hours for patients as well as Longer consulting times compared to processing times which could be due to a staffing shortage. If it made financially sense, it would be the best interest of the hospital to get more consulting staff to lower the waiting times for patients.
+ 
 ### SBA 7a Loans Exploratory Data Analysis
 **Code**: [sba_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/sba_analysis.sql)
 
