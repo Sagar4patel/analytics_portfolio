@@ -10,6 +10,15 @@ This is a repository to showcase skills and share projects,
 
  In this section I will list data analytics project describing the technology stack used to answer questions
  
+### Insurance Rates Analysis
+**Code**:[insurance_rates_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/insurance.sql)
+
+**Description**: This dataset is public data from kaggle which contains 1338 rows of insured data. This dataset contains information on age, BMI, Charges, Region, and if the insured is a smoker or not. The task was to find out what factors can lead to higher insurance rates and make insurance providers more knowledgable on the matter as well as find relationships between different variables.
+
+**Technology**: Excel, SQL, Tableau
+
+**Results**: The data has shown that average smokers insurance rates are 4x higher compared to nonsmokers. Average charge for males is 10% higher compared to females. Southeast has the highest average is 14.7k. As BMI and age increases so does the insurance charges. Linear regression has shown that Smoking, # of children, BMI, and Advancing age are significant facts that change insurance rates.
+ 
 ### Hospital Wait Time Analysis
 **Code**: [hospital_wait_time_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/hospital_wait_time_analysis.sql)
 
