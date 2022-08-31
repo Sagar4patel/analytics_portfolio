@@ -11,7 +11,7 @@ This is a repository to showcase skills and share projects,
  In this section I will list data analytics project describing the technology stack used to answer questions
  
 ### Insurance Rates Analysis
-**Code**:[insurance_rates_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/insurance.sql)
+**Code**: [insurance_rates_analysis](https://github.com/Sagar4patel/analytics_portfolio/blob/main/insurance.sql)
 
 **Description**: This dataset is public data from kaggle which contains 1338 rows of insured data. This dataset contains information on age, BMI, Charges, Region, and if the insured is a smoker or not. The task was to find out what factors can lead to higher insurance rates and make insurance providers more knowledgable on the matter as well as find relationships between different variables.
 
